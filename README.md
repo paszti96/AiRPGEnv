@@ -1,4 +1,4 @@
-# Online RPG Environment for Reinforcement Learning
+# Online RPG Environment for Reinforcement Learning 👾🤖👻 
 
 ## About: 
 The  main  goal  of  the  following  project  is  to  create  asimple,  lightweight  and  modifiable  MMORPG  (MassivelyMultiplayer  Online  Role-playing  Game)  Game  with  basic graphic design and functionality, and train Deep Reinforce-ment Learning Algorithms on it.
