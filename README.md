@@ -6,7 +6,7 @@
 
 ## About: 
 The  main  goal  of  the  following  project  is  to  create  asimple,  lightweight  and  modifiable  MMORPG  (MassivelyMultiplayer  Online  Role-playing  Game)  Game  with  basic graphic design and functionality, and train Deep Reinforce-ment Learning Algorithms on it.
-Although the purpose of the project is not only to develop an environment but to challenge multi-agent reinforcement learningalgorithms in it.
+Although the purpose of the project is not only to develop an environment but to challenge multi-agent reinforcement learning algorithms in it.
 
 ### Our main contributions are the following:
 * Creating an environment that is massively multiplayer andcan be used from multiple training machines
