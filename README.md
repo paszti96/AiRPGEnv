@@ -79,4 +79,6 @@ python Environment/environment.py
 
 ## 
 
-# For more information: [Publication](https://ieeexplore.ieee.org/document/9263405)
+# For more information: 
+[Publication @IEEE](https://ieeexplore.ieee.org/document/9263405)
+[Publication @GitHub](https://github.com/paszti96/AIRPGEnv/blob/master/WAIT_AI_RPG.pdf)
