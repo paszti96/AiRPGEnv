@@ -1,5 +1,9 @@
 # Online RPG Environment for Reinforcement Learning 👾🤖👻 
 
+# For more information: 
+## [Publication @IEEE](https://ieeexplore.ieee.org/document/9263405)
+## [Publication @GitHub](https://github.com/paszti96/AIRPGEnv/blob/master/WAIT_AI_RPG.pdf)
+
 ## About: 
 The  main  goal  of  the  following  project  is  to  create  asimple,  lightweight  and  modifiable  MMORPG  (MassivelyMultiplayer  Online  Role-playing  Game)  Game  with  basic graphic design and functionality, and train Deep Reinforce-ment Learning Algorithms on it.
 Although the purpose of the project is not only to develop an envi-ronment but to challenge multi-agent reinforcement learningalgorithms in it.
@@ -76,9 +80,3 @@ To play as a human:
 ```bash
 python Environment/environment.py
 ```
-
-## 
-
-# For more information: 
-[Publication @IEEE](https://ieeexplore.ieee.org/document/9263405)
-[Publication @GitHub](https://github.com/paszti96/AIRPGEnv/blob/master/WAIT_AI_RPG.pdf)
